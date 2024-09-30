@@ -2,6 +2,8 @@
 
 RecipesApp is a Flutter application that allows users to explore and search for various recipes by calling a free recipe API. Users can find detailed information about ingredients, preparation steps, and even filter recipes based on specific dietary preferences.
 
+## Apk Files 
+https://github.com/Virang007/RecipesApp/releases/download/Recipes/app-release.apk
 
 
 ## Screenshots
