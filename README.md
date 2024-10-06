@@ -10,7 +10,12 @@ https://github.com/Virang007/RecipesApp/releases/download/Recipes/app-release.ap
 
 Here are some screenshots of the app:
 
-<img src="https://github.com/user-attachments/assets/3d06a103-698f-4a92-b2ab-fb6bdec5c537" width="200" alt="Home Screen"/>&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/aea09f26-15eb-4fbe-8128-3f465a681fca" width="200" alt="Recipe List Screen"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/f89806fc-bb92-41eb-8350-d4346a0d2748" width="200" alt="Recipe Details Screen"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/user-attachments/assets/2ddb9ecd-0227-4d05-bafd-2ed0066b94ac" width="200" alt="Recipe Steps Screen"/>
+<img src="https://github.com/user-attachments/assets/3665e33c-1546-4406-a6e4-9a9a6e701c81" width="200" alt="Home Screen"/>&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/467730c2-86b8-4d19-a6a3-fff36b0afa91" width="200" alt="Recipe List Screen"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/b7395732-3f12-4210-90ef-90e43980ee6e" width="200" alt="Recipe Steps Screen"/>
+<img src="https://github.com/user-attachments/assets/49282fb1-7a18-4057-960f-5f5bf30830de" width="200" alt="Recipe Details Screen"/>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 ---
 # Api realtime 
